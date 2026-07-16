@@ -63,13 +63,5 @@ Qsearchddg是DuckDuckgo的，需要更改为DuckDuckgo搜索
 - [@lhie1](https://github.com/lhie1/Rules)
 - [@chavyleung](https://github.com/chavyleung)
 
-### 访问量
-
-![](http://profile-counter.glitch.me/zqzess/count.svg)
-
-### Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=zqzess/rule_for_quantumultX&type=Date)](https://star-history.com/#zqzess/rule_for_quantumultX&Date)
-
 ###
 [![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
