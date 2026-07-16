@@ -65,7 +65,7 @@ http:\/\/analytics\.163\.com\/ntes - reject
 
 [Script]
 # 微信公众号广告屏蔽(By Choler)
-微信公众号广告屏蔽=type=http-response,pattern=^https?:\/\/mp\.weixin\.qq\.com\/mp\/getappmsgad,requires-body=1,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/File/Wechat.js
+微信公众号广告屏蔽=type=http-response,pattern=^https?:\/\/mp\.weixin\.qq\.com\/mp\/getappmsgad,requires-body=1,script-path=https://raw.githubusercontent.com/synchen232/rule_for_quantumultX/master/Surge/Resources/shared/Wechat.js
 
 [MITM]
 hostname = %APPEND% appconf.mail.163.com,analytics.163.com,ma-adx.ctrip.com,m.ctrip.com,api.m.jd.com,mp.weixin.qq.com,j-image.missfresh.cn,mbd.baidu.com,www.google.com.hk

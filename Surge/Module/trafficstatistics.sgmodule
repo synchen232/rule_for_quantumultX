@@ -3,7 +3,7 @@
 #!category=zqzess
 
 [Script]
-TrafficStatistics = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/js/backup/trafficstatistics.js
+TrafficStatistics = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/synchen232/rule_for_quantumultX/master/Surge/Script/trafficstatistics/trafficstatistics.js
 
 [Panel]
 TrafficStatistics = script-name=timecard,update-interval=1

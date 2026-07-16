@@ -3,13 +3,13 @@
 #!category=zqzess
 
 [Script]
-节点选择 = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/js/backup/groupPanel.js,argument=icon=network&color=#3CB371&group=节点选择
-out_ssid = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/fishingworld/something/main/groupPanel.js,argument=icon=network&color=#86abee&group=out_ssid
-Reject = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/fishingworld/something/main/groupPanel.js,argument=icon=network&color=#DC143C&group=Reject
-Paypal = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/fishingworld/something/main/groupPanel.js,argument=icon=network&color=#86abee&group=Paypal
-Spotify = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/fishingworld/something/main/groupPanel.js,argument=icon=network&color=#86abee&group=Spotify
-Outside = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/fishingworld/something/main/groupPanel.js,argument=icon=network&color=#86abee&group=Outside
-🧭Final = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/fishingworld/something/main/groupPanel.js,argument=icon=network&color=#00FFFF&group=🧭Final
+节点选择 = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/synchen232/rule_for_quantumultX/master/Surge/Script/groupPanel/groupPanel.js,argument=icon=network&color=#3CB371&group=节点选择
+out_ssid = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/synchen232/rule_for_quantumultX/master/Surge/Resources/shared/fishing_groupPanel.js,argument=icon=network&color=#86abee&group=out_ssid
+Reject = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/synchen232/rule_for_quantumultX/master/Surge/Resources/shared/fishing_groupPanel.js,argument=icon=network&color=#DC143C&group=Reject
+Paypal = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/synchen232/rule_for_quantumultX/master/Surge/Resources/shared/fishing_groupPanel.js,argument=icon=network&color=#86abee&group=Paypal
+Spotify = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/synchen232/rule_for_quantumultX/master/Surge/Resources/shared/fishing_groupPanel.js,argument=icon=network&color=#86abee&group=Spotify
+Outside = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/synchen232/rule_for_quantumultX/master/Surge/Resources/shared/fishing_groupPanel.js,argument=icon=network&color=#86abee&group=Outside
+🧭Final = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/synchen232/rule_for_quantumultX/master/Surge/Resources/shared/fishing_groupPanel.js,argument=icon=network&color=#00FFFF&group=🧭Final
 
 
 [Panel]
