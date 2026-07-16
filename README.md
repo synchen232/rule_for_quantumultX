@@ -1,5 +1,7 @@
 # rule_for_quantumultX
 
+Forked from: [https://github.com/zqzess/rule_for_quantumultX](https://github.com/zqzess/rule_for_quantumultX)
+
 **推荐阅读**
 ----
 [自建代理转换站点(Sub-Store)](https://www.whitemoon.top/2022/09/18/zi-jian-de-dai-li-jie-dian-zhuan-huan-zhan-dian/)
