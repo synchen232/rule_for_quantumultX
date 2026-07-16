@@ -63,5 +63,3 @@ Qsearchddg是DuckDuckgo的，需要更改为DuckDuckgo搜索
 - [@lhie1](https://github.com/lhie1/Rules)
 - [@chavyleung](https://github.com/chavyleung)
 
-###
-[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
