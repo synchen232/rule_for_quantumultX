@@ -1,13 +1,6 @@
 # rule_for_quantumultX
 
-## 📢 最近更新 
-- [今日油价](https://github.com/zqzess/rule_for_quantumultX/tree/master/js/Mine/gasoline)
-- [v2free机场签到领流量](https://github.com/zqzess/rule_for_quantumultX/tree/master/js/Mine/v2freeCheckIn)
-- [switch游戏价格监控](https://github.com/zqzess/rule_for_quantumultX/tree/master/js/Mine/switchPriceMonitor)
-- [阿里云盘签到更新自动领取](https://github.com/zqzess/rule_for_quantumultX/tree/master/js/Mine/aDriveCheckIn)
-- [阿里云盘fake vip 测试版](https://github.com/zqzess/rule_for_quantumultX/tree/master/js/debug/aDriveCrack)
-- [新增倒数日脚本](https://github.com/zqzess/rule_for_quantumultX/tree/master/js/Mine/wnCalendar)
-- [新增今日黄历脚本](https://github.com/zqzess/rule_for_quantumultX/tree/master/js/Mine/wnCalendar)
+Forked from: [https://github.com/zqzess/rule_for_quantumultX](https://github.com/zqzess/rule_for_quantumultX)
 
 **推荐阅读**
 ----
